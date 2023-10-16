@@ -1,5 +1,5 @@
 public class BenHamoudaMariem {
-    public static int[] concatTab(int[] Tab1, int[] Tab2) {
+    public static int[] concaterTab(int[] Tab1, int[] Tab2) {
         int totalLength = Tab1.length + Tab2.length;
         int[] result = new int[totalLength];
 
