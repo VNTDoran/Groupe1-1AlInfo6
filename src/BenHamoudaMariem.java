@@ -13,4 +13,12 @@ public class BenHamoudaMariem {
 
         return result;
     }
+
+    public int stringLength(String ch) {
+        if (ch != null) {
+            return ch.length();
+        } else {
+            return 0; // Handle null strings as needed
+        }
+    }
 }
