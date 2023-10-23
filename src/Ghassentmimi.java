@@ -12,6 +12,7 @@ public class Ghassentmimi {
         System.out.println("/////////////////////////////////////////////");
         System.out.println("La puissance de " + base + " à la puissance " + exponent + " est : " + calculPuiss(base,exponent));
         System.out.println("Le maximum est " + maximum(tab));
+        System.out.print("Cause de conflit");
     }
 
     private static int maximum(int[] tableau) {
