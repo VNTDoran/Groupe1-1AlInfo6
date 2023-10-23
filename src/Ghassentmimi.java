@@ -9,7 +9,7 @@ public class Ghassentmimi {
         System.out.print("Entrez l'exposant : ");
         int exponent = scanner.nextInt();
         int[] tab = new int[0];
-        System.out.println("La puissance de " + base + " à laaa puissance " + exponent + " est : " + calculPuiss(base,exponent));
+        System.out.println("La puissance de " + base + " à laaa pduissance " + exponent + " est : " + calculPuiss(base,exponent));
         System.out.println("Le maximum est " + maximum(tab));
         System.out.print("Cause de conflit");
         System.out.print("Valorant");
